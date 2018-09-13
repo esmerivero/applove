@@ -1,0 +1,19 @@
+{
+  "name": "applove-boilerplate-master",
+  "version": "1.0.0",
+  "description": "* **Track:** _Common Core_ * **Curso:** _Creando tu primer sitio web interactivo_ * **Unidad:** _Maquetado web con HTML & CSS_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esmerivero/applove.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esmerivero/applove/issues"
+  },
+  "homepage": "https://github.com/esmerivero/applove#readme"
+}
